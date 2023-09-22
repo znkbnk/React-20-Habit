@@ -24,7 +24,7 @@ code as a template example.
 
 Step 5: Modify HabitList.js file:
 
-In you HabitList.js file change from setCompletedHabits
+In you HabitList.js file change from updateHabit
 to setHabits. This change impacts how habits are updated
 within the handleCompleteClick function.
 
