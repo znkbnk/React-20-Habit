@@ -34,3 +34,10 @@ Inside the styles.css file, scroll to an appropriate
 place where you want to add the styles for .chart-container.
 Create the styles for the .chart-container class. 
 
+Step 7: If you get an error
+
+If you get error like this:
+Canvas is already in use. Chart with ID '1' must be destroyed
+before the canvas with ID '' can be reused.
+Ensure that any existing chart is destroyed before creating a new one.
+
