@@ -28,3 +28,9 @@ In you HabitList.js file change from setCompletedHabits
 to setHabits. This change impacts how habits are updated
 within the handleCompleteClick function.
 
+Step 6: Update the styles.css file
+
+Inside the styles.css file, scroll to an appropriate 
+place where you want to add the styles for .chart-container.
+Create the styles for the .chart-container class. 
+
